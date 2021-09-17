@@ -60,6 +60,8 @@ GitHub – is a service; for Git repo hosting. It has the complete functionality
 
 Question 5: Stages of Git
 
+Answer:
+
 1.	Working directory: This is where the user works on their local machine. This directory contains the .git folder, that you can create through the git init command. once that is done, this local directory is tracked by git. 
 
 2.	Staging area: It's the area where files are added to be committed to git, but havent been committed or pushed in the git repo. Use the git add command to add the files to stagin area. Until the files are committed, there will be no metadata or hash. Staging is not permanent, only  used to ‘stage’ the code. 
@@ -70,4 +72,13 @@ Question 5: Stages of Git
 
 -------- ----- --------
 
+QUestion 6: 3 methods of git reset.
 
+Answer:
+
+The three methods of git reset are:
+1. Mixed - this removes the commit from local repo and staging area.
+2. Soft - removes the commit from local repo, but not from staging.
+3. Hard - removes the commit from local repo, staging area, as we as any pending work that was not yet committed.
+
+-------- ----- --------
