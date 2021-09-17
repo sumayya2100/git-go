@@ -32,3 +32,16 @@ After CI, code changes can be deployed to a test environment (using branching st
 Continuous Deployment:
 
 Once the changes are approved from CI/CD, the code can be deployed to production, in an automated way without manual intervention. With continuous deployment, we also gather continuous feedback from the user which we can timely incorporate into our upcoming builds. 
+
+Question 3:
+
+What are the benefits of Cloud Computing?
+
+Answer:
+
+The benefits of Cloud Computing include:
+
+-	Easy Resource management – No need to buy the resources, just get them as and when needed.
+-	Easy to increase/decrease resources according to the need.
+-	Pay per use facility 
+-	Self-service facility
